@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Привет всем, меня зовут Александр 👋
+## 👨‍💻Обо мне
+Я Фронтенд-разработчик
 <!--
 **AplusO1/AplusO1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
