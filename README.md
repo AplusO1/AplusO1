@@ -5,7 +5,6 @@
 * Специализируюсь на создании высокопроизводительных и масштабируемых сайтов с акцентом на пользовательский интерфейс и UX, постоянно совершенствую навыки в области веб-разработки.
 * Активно ищу работу. [Вот мое резюме.](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2F%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%2FYudin%20Alexander%2C%20Frontend%20Developer.pdf&name=Yudin%20Alexander%2C%20Frontend%20Developer.pdf&uid=108183571&nosw=1)
 ## 🛠Language and Tools
-***
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -15,6 +14,8 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+## 📩My contacts 
+[y.a.o@mail.ru](y.a.o@mail.ru)
 
 <!--
 **AplusO1/AplusO1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
