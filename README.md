@@ -4,9 +4,8 @@
 * Имею глубокие знания React, Redux и других инструментов frontend-разработки. 
 * Специализируюсь на создании высокопроизводительных и масштабируемых сайтов с акцентом на пользовательский интерфейс и UX, постоянно совершенствую навыки в области веб-разработки.
 * Активно ищу работу. [Вот мое резюме.](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2F%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%2FYudin%20Alexander%2C%20Frontend%20Developer.pdf&name=Yudin%20Alexander%2C%20Frontend%20Developer.pdf&uid=108183571&nosw=1)
-##
 ## 🛠Language and Tools
-React
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   
 <!--
 **AplusO1/AplusO1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
